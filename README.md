@@ -19,6 +19,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### The challenge
 This HTML & CSS only challenge is perfect for anyone just starting out or anyone wanting a small project to play around with.
+But I made this challenge in React.
 
 ### Screenshot
 <img width="1007" alt="Screenshot 2023-07-30 at 00 12 42" src="https://github.com/mariamo101/TIC-TAC-TOE/assets/117212859/681e86e3-bc94-44a5-83e3-786005e91875">
